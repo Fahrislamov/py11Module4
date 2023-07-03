@@ -1,0 +1,30 @@
+h1 {
+    background: red;
+}
+.paragraph-1{
+    background: blue;
+    font-size: 32pt;
+    color: aquamarine;
+}
+.paragraph-2{
+    border: 10px solid yellow;
+    border-radius: 100px;
+    font-size: 24px;
+    margin-bottom: 50px;
+    padding-bottom: 40px;
+
+}
+.paragraph-3{
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Courier New';
+}
+.fit-picture{
+    width: 250px;
+}
+.paragraph-4{
+    font-style: oblique;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 5px 5px 5px green;
+}
